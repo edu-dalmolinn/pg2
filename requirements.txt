@@ -1,0 +1,14 @@
+pandas
+yfinance
+ucimlrepo
+yahooquery
+arch
+plotly
+ipython
+nbformat
+model_confidence_set
+xgboost
+scikit-learn
+torch
+matplotlib
+numpy
